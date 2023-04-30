@@ -20,3 +20,6 @@ Issue ticket, Payment, Notification
 
 ### 4. Common Functionalities
 Registration and Login
+
+### 5. BMS Admin
+Create Movies
